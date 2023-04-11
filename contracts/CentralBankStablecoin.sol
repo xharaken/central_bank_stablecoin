@@ -15,8 +15,8 @@ import "@openzeppelin/contracts-upgradeable/token/ERC20/extensions/ERC20Pausable
 //
 // CentralBankStablecoin is implemented as ERC20 tokens. The central bank can
 // use the smart contract to issue their fiat currency to a public blockchain.
-// Historically, the central bank has issued their fiat currency to bank bills
-// and metal coins. Isn't it the time to issue their fiat currency to a smart
+// Historically, the central bank has issued their fiat currency on bank bills
+// and metal coins. Isn't it the time to issue their fiat currency on a smart
 // contract?
 //
 // See the whitepapers for more details:
